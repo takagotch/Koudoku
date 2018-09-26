@@ -71,7 +71,7 @@ Plan.create({
 })
 
 ```
-[~/.bash_profile]
+~/.bash_profile
 ```
 export STRIPE_PUBLISHABLE_KEY=pk_oJ2DH9sdh98f79DH00jdi0xQxQob0
 export STRIPE_SECRET_KEY=sk_0CJwFDIUshdfh97JDJ9jZ5OjZ5OIDjOCH
